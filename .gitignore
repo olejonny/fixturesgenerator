@@ -1,0 +1,6 @@
+# Ignore files in the raw folder
+/raw/*
+# Ignore JSON files
+*.json
+# Ignore the environment files
+/env/*
